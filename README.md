@@ -1,4 +1,4 @@
-# readme-chess
+# README Chess
 
 |   | R | E | A | D | M | E |   |
 |---|---|---|---|---|---|---|---|
