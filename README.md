@@ -1,5 +1,7 @@
 # README Chess
 
+## NOTE: This repository is no longer in use and is archived.
+
 |   | R | E | A | D | M | E |   |
 |---|---|---|---|---|---|---|---|
 | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
